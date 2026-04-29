@@ -959,6 +959,7 @@ X_scaled_df = pd.DataFrame(X_scaled, columns=X.columns)
 
 # **Part 4: Choosing a regression model**
 <img width="965" height="264" alt="image" src="https://github.com/user-attachments/assets/ac951be8-b729-44e7-87ec-8ceea1ae9479" />
+<br>
 
 **Train-Test Split**
 ```python
@@ -1448,9 +1449,7 @@ def run_academic_risk_demo(model, feature_names, X_train):
 # run_academic_risk_demo(xgb_binary, X_train.columns, X_train)
 ```
 
-# **ROC**
-
-
+# **Class Imbalance? Precision-Recall (PR) Curve**
 ```python
 from sklearn.metrics import precision_recall_curve, average_precision_score
 import matplotlib.pyplot as plt
