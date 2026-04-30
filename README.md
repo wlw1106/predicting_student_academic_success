@@ -1,6 +1,5 @@
 # **Predict students' dropout and academic success**
-
--- ELEC3544 Group Project
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EyFE1xktn05mB7g4Tmt-lQPIjEN9y_vP?usp=sharing)
 
 ## --------------------- Workflow ---------------------
 ### **Phase 1: Data Acquisition & Initial Scoping**
